@@ -6,4 +6,6 @@ def test():
 	
 def train():
 	# write trainig code
-	pass
+	# change my data loading procedure
+	# add lots of stuff here
+	# the code is working with new dataset
