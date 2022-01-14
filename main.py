@@ -1,12 +1,7 @@
-
+import os
 
 # Main file
 """
-git init
-git status
-
-git commit
-
 """
 
 if __name__ == "__main__":
@@ -15,3 +10,6 @@ if __name__ == "__main__":
 	#eady to be packed and commited
 	
 	# add more stuff
+	train()
+	test()
+	print("Done!")
